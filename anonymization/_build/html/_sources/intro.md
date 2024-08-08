@@ -1,11 +1,17 @@
-# Welcome to your Jupyter Book
+# Data Anonymization
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This book will walk through Rida's internship project.
 
-Check out the content pages bundled with this sample book to see more.
+Outline:
+
+-   Intro to data anonymization and business problem
+-   Simpler anonymization techniques: quick demos, pros/cons, use cases
+-   More complex anonymization techniqe demos: k-anonymization, l-diversity, t-closeness, maybe differential privacy algorithms
+-   Maybe: Evaluating success of anonymization techniques via ml models? Otherwise evaluate via visualizations
+-   Overview of best practices and tools
+
+Table of contents:
 
 ```{tableofcontents}
+
 ```
